@@ -1,2 +1,3 @@
 # hello-world
-justa new repository
+just a new repository
+just editing the new file
